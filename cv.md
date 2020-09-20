@@ -4,18 +4,6 @@ Email: saphronenka@gmail.com
 
 Experience in the IT sphere is superficial, completed education of a technician-programmer. Experience in freelancing, website development with HTML and CSS. I really want to continue to develop in this niche, I like to create sites from scratch to the final product. Persevering, meticulous and hyperresponsible.
 
-<b>Education:</b>
-
-*2013
-MESI
-Anti-crisis management, Economist-manager
-
-*2007
-TBiP
-Computer Technology, Information Technology Software
-
-<b>Aditional courses:</b>
-2014 Center for Learning Technologies IT-Academy "BelHard", Web-oriented applications tester
 
 <b>Work experience:</b>
 
@@ -59,3 +47,16 @@ Minsk
 Electronics, instrumentation, household appliances, computers and office equipment.
 PC operator
 Guarantee reporting.
+
+<b>Education:</b>
+
+*2013
+MESI
+Anti-crisis management, Economist-manager
+
+*2007
+TBiP
+Computer Technology, Information Technology Software
+
+<b>Aditional courses:</b>
+2014 Center for Learning Technologies IT-Academy "BelHard", Web-oriented applications tester
